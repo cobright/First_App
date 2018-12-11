@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import os
 import sys
-
+# 파이썬 소스 변경 git에 올리기
 if __name__ == '__main__':
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'mysite.settings')
     try:
